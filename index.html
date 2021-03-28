@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+  name="viewport"
+  content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+  />
+  
+  <meta name="theme-color" content="#101D42" />
+  <meta property="og:locale" content="en, pt-br" />
+  <meta property="og:site_name" content="Maganez" />
+  
+  <!-- Primary Meta Tags -->
+  <meta name="title" content="Maganez - Linktree" />
+  <meta
+    name="description"
+    content="Hello World! This is my personal linktree."
+  />
+  
+  <!-- Open Graph / Facebook METADATA  -->
+  <meta property="og:type" content="Personal linktree" />
+  <meta property="og:url" content="https://my-linktree-maganezf.vercel.app/" />
+  <meta property="og:title" content="Maganez - Linktree" />
+  <meta
+    property="og:description"
+    content="Hello World! This is my personal linktree."
+  />
+  
+  <meta property="og:image" content="/assets/metadata-image.png" />
+  
+  <!-- Twitter METADATA -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://my-linktree-maganezf.vercel.app/" />
+  <meta property="twitter:title" content="Maganez - Linktree" />
+  <meta
+    property="twitter:description"
+    content="Hello World! This is my personal linktree."
+  />
+  
+  <meta property="twitter:image" content="/assets/metadata-image.png" />
+  
+  <link
+    rel="shortcut icon"
+    href="https://maganezf-me.vercel.app/favicon.svg"
+    title="favicon"
+  />
+  
+  <link
+    rel="apple-touch-icon"
+    href="https://maganezf-me.vercel.app/favicon.svg"
+    sizes="180x180"
+    title="favicon"
+  />
+  
+  <link rel="canonical" href="https://my-linktree-maganezf.vercel.app/" />
+  
+  <link rel="stylesheet" href="/styles/styles.css" />
+  
+  <title>My Linktree - @maganezf</title>
+</head>
+
+<body>
+  <div id="particles-js"></div>
+  
+  <div class="container">
+    <img
+    class="profile-picture"
+    src="https://github.com/maganezf.png"
+    loading="lazy"
+    />
+    
+    <h2>Maganez Filho</h2>
+    <p class="subtitle">Frontend Developer</p></br>
+    <p class="subtitle">
+      < Keep connected with my work by following me on /> 👨‍💻
+    </p>
+
+    <div class="info-container">
+      <div class="content">
+        <h3>My main links below 👇🏼</h3>
+        
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="http://maganezf-me.vercel.app/"
+          class="link highlight"
+        >
+          <ion-icon name="code-slash"></ion-icon>
+          My personal website
+        </a>
+      
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.linkedin.com/in/maganezf/"
+          class="link"
+        >
+          <ion-icon name="logo-linkedin"></ion-icon>
+          My LinkedIn
+        </a>
+    
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="mailto:maganezfilho@gmail.com"
+          class="link"
+        >
+          <ion-icon name="mail"></ion-icon>
+          My Personal email
+        </a>
+
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="mailto:maganez.santos@dcx.ufpb.br"
+          class="link"
+        >
+          <ion-icon name="mail"></ion-icon>
+          My Institutional email
+        </a>
+      </div>
+    </div>
+  </div>
+</body>
+
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+<script>
+  particlesJS("particles-js", {
+    particles: {
+      number: { value: 1200, density: { enable: true, value_area: 790 } },
+      color: { value: "#ffffff" },
+      shape: {
+        type: "circle",
+        stroke: { width: 0, color: "#000000" },
+        polygon: { nb_sides: 5 },
+        image: { src: "img/github.svg", width: 100, height: 100 },
+      },
+      opacity: {
+        value: 0.5,
+        random: false,
+        anim: { enable: true, speed: 0.2, opacity_min: 0, sync: false },
+      },
+      size: {
+        value: 2,
+        random: true,
+        anim: { enable: true, speed: 2, size_min: 0.3, sync: false },
+      },
+      line_linked: {
+        enable: false,
+        distance: 150,
+        color: "#ffffff",
+        opacity: 0.4,
+        width: 1,
+      },
+      move: {
+        enable: true,
+        speed: 1,
+        direction: "top-right",
+        random: true,
+        straight: false,
+        out_mode: "out",
+        bounce: false,
+        attract: { enable: false, rotateX: 600, rotateY: 600 },
+      },
+    },
+    interactivity: {
+      detect_on: "canvas",
+      events: {
+        onhover: { enable: true, mode: "bubble" },
+        onclick: { enable: true, mode: "push" },
+        resize: true,
+      },
+      modes: {
+        grab: { distance: 400, line_linked: { opacity: 1 } },
+        bubble: {
+          distance: 83.91608391608392,
+          size: 1,
+          duration: 3,
+          opacity: 1,
+          speed: 3,
+        },
+        repulse: { distance: 200, duration: 0.4 },
+        push: { particles_nb: 4 },
+        remove: { particles_nb: 2 },
+      },
+    },
+    retina_detect: true,
+  });
+</script>
+</html>
