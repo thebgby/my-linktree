@@ -74,7 +74,7 @@ This project was made using the follow technologies:
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [SASS / SCSS](https://sass-lang.com/)
 - [Javascript](https://www.javascript.com/)
-- [Particles.js](https://github.com/VincentGarreau/particles.js/)
+- [Particles.js (Library)](https://github.com/VincentGarreau/particles.js/)
 - [Vercel (hosting)](https://vercel.com/)
 
 ## 💁 Ancillary sites at development
