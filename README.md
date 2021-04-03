@@ -45,7 +45,7 @@ contributors
 - [Live Website](#eyes-live-website)
 - [Technologies](#computer-technologies)
 - [Ancillary sites at development](#information_desk_person-Ancillary-sites-at-development)
-- [Object / Features](#dart-object-/-features)
+- [Object and Features](#dart-object-and-features)
 - [How to Run](#construction_worker-how-to-run)
 - [Found a bug? Missing a specific feature?](#bug-issues)
 - [Contributing](#tada-contributing)
@@ -82,7 +82,7 @@ This project was made using the follow technologies:
 
 - [Ion Icons](https://ionicons.com/)
 
-# :dart: Object / Features
+# :dart: Object and Features
 
 - Join all my main links to share them more easily
 
