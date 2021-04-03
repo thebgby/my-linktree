@@ -40,15 +40,16 @@ contributors
 
 </div>
 
-# 📌 Table of Contents
+# :pushpin: Table of Contents
 
-- [Live Website](#👀-live-website)
-- [Technologies](#💻-technologies)
-- [Ancillary sites at development](#💁-Ancillary-sites-at-development)
-- [Object / Features](#🎯-object-/-features)
-- [Found a bug? Missing a specific feature?](#🐛-issues)
-- [Contributing](#🎉-contributing)
-- [License](#📕-license)
+- [Live Website](#eyes-live-website)
+- [Technologies](#computer-technologies)
+- [Ancillary sites at development](#information_desk_person-Ancillary-sites-at-development)
+- [Object / Features](#dart-object-/-features)
+- [How to Run](#construction_worker-how-to-run)
+- [Found a bug? Missing a specific feature?](#bug-issues)
+- [Contributing](#tada-contributing)
+- [License](#closed_book-license)
 
 <h2 align="left"> 🤩 Layout</h2>
 <p align="center">
@@ -62,11 +63,11 @@ contributors
   <br/>
 </p>
 
-# 👀 Live Website
+# :eyes: Live Website
 
 👉 [Click to open Website here](https://my-linktree-maganezf.vercel.app/)
 
-# 💻 Technologies
+# :computer: Technologies
 
 This project was made using the follow technologies:
 
@@ -77,19 +78,19 @@ This project was made using the follow technologies:
 - [Particles.js (Library)](https://github.com/VincentGarreau/particles.js/)
 - [Vercel (hosting)](https://vercel.com/)
 
-## 💁 Ancillary sites at development
+## :information_desk_person: Ancillary sites at development
 
 - [Ion Icons](https://ionicons.com/)
 
-# 🎯 Object / Features
+# :dart: Object / Features
 
 - Join all my main links to share them more easily
 
-# 🐛 Issues
+# :bug: Issues
 
 Feel free to **file a new issue** with a respective title and description on the the [My Linktree](https://github.com/maganezf/my-linktree/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-# 🎉 Contributing
+# :tada: Contributing
 
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. 💯
 
@@ -100,7 +101,7 @@ Here's some tips:
 
 Check out the [contributing](./CONTRIBUTING) page to see the best places to file issues, start discussions and begin contributing.
 
-# 📕 License
+# :closed_book: License
 
 Released in 2021 📕 License
 
